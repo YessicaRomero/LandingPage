@@ -3,7 +3,7 @@ import "./Nosotros.css";
 export const Nosotros = () => {
   return (
     <div>
-      <h2>Bienvenido a Cortes Urbanos</h2>
+      <h2 className="bienvenido">Bienvenido a Cortes Urbanos</h2>
       <p className="us">
          En Cortes Urbano nos dedicamos a
         proporcionarte una experiencia excepcional en cuidado capilar. Con un
