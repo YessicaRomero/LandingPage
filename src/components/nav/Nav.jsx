@@ -29,7 +29,7 @@ const Nav = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link text-white" href="#">
+                <a className="nav-link text-white" href="">
                   Contacto
                 </a>
               </li>
