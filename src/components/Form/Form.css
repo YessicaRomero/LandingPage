@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 75px;
+    border: solid black 2px ;
+    border-radius: 10px;
+}
+
+.name, .phone, .email {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+input {
+    height: 30px;
+}
+
+.reserva {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: center;
+    padding-left: 18px;
+}
+
