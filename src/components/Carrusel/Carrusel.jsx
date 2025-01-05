@@ -1,7 +1,7 @@
 import foto1 from "../../images/foto1.jpg";
 import foto2 from "../../images/foto2.jpg";
 import foto3 from "../../images/foto3.jpg";
-
+import './carrusel.css'
 const Carrusel = () => {
   return (
     <div>

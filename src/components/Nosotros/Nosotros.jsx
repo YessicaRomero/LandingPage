@@ -3,8 +3,9 @@ import "./Nosotros.css";
 export const Nosotros = () => {
   return (
     <div>
+      <h2 className="bienvenido">Bienvenido a Cortes Urbanos</h2>
       <p className="us">
-        Bienvenido a Cortes Urbanos En Cortes Urbanos, nos dedicamos a
+         En Cortes Urbano nos dedicamos a
         proporcionarte una experiencia excepcional en cuidado capilar. Con un
         equipo de estilistas apasionados y servicios de alta calidad, estamos
         aquí para ayudarte a lucir y sentirte lo mejor posible. Nuestros

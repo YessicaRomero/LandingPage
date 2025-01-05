@@ -1,0 +1,5 @@
+.carousel-inner img{
+    height: 400px; /* Ajusta la altura según lo que necesites */
+    object-fit: cover;
+    
+      }

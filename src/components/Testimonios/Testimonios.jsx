@@ -10,7 +10,7 @@ const Testimonios = () => {
   return (
     <div className="testimonios">
       <div className="testimonios-contenedor">
-        <div className="card">
+        <div className="card  h-100">
           <img src={img1} className="card-img-top" alt="Corte de pelo"></img>
           <div className="card-body">
             <p className="card-text">
@@ -26,7 +26,7 @@ const Testimonios = () => {
         </div>
       </div>
       <div className="testimonios-contenedor">
-        <div className="card">
+        <div className="card  h-100 ">
           <img src={img2} className="card-img-top" alt="Corte de pelo"></img>
           <div className="card-body">
             <p className="card-text">
@@ -40,7 +40,7 @@ const Testimonios = () => {
         </div>
       </div>
       <div className="testimonios-contenedor">
-        <div className="card">
+        <div className="card h-100">
           <img src={img3} className="card-img-top" alt="Corte de pelo"></img>
           <div className="card-body">
             <p className="card-text">
@@ -55,7 +55,7 @@ const Testimonios = () => {
         </div>
       </div>
       <div className="testimonios-contenedor">
-        <div className="card">
+        <div className="card h-100 ">
           <img src={img4} className="card-img-top" alt="Corte de pelo"></img>
           <div className="card-body">
             <p className="card-text">
@@ -70,7 +70,7 @@ const Testimonios = () => {
         </div>
       </div>
       <div className="testimonios-contenedor">
-        <div className="card">
+        <div className="card  h-100">
           <img src={img5} className="card-img-top" alt="Corte de pelo"></img>
           <div className="card-body">
             <p className="card-text">
@@ -84,7 +84,7 @@ const Testimonios = () => {
         </div>
       </div>
       <div className="testimonios-contenedor">
-        <div className="card">
+        <div className="card   h-100">
           <img src={img6} className="card-img-top" alt="Corte de pelo"></img>
           <div className="card-body">
             <p className="card-text">
